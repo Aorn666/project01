@@ -1,0 +1,15 @@
+C:\Домашка\project02\bin\Debug\net6.0\project02.exe
+C:\Домашка\project02\bin\Debug\net6.0\project02.deps.json
+C:\Домашка\project02\bin\Debug\net6.0\project02.runtimeconfig.json
+C:\Домашка\project02\bin\Debug\net6.0\project02.dll
+C:\Домашка\project02\bin\Debug\net6.0\project02.pdb
+C:\Домашка\project02\obj\Debug\net6.0\project02.csproj.AssemblyReference.cache
+C:\Домашка\project02\obj\Debug\net6.0\project02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Домашка\project02\obj\Debug\net6.0\project02.AssemblyInfoInputs.cache
+C:\Домашка\project02\obj\Debug\net6.0\project02.AssemblyInfo.cs
+C:\Домашка\project02\obj\Debug\net6.0\project02.csproj.CoreCompileInputs.cache
+C:\Домашка\project02\obj\Debug\net6.0\project02.dll
+C:\Домашка\project02\obj\Debug\net6.0\refint\project02.dll
+C:\Домашка\project02\obj\Debug\net6.0\project02.pdb
+C:\Домашка\project02\obj\Debug\net6.0\project02.genruntimeconfig.cache
+C:\Домашка\project02\obj\Debug\net6.0\ref\project02.dll
